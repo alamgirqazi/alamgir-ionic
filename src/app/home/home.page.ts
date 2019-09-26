@@ -6,14 +6,14 @@ import { Component } from '@angular/core';
   styleUrls: ['home.page.scss']
 })
 export class HomePage {
-  name = 'Alamgir';
-  city = 'Rawalpindi';
-  interests = ['Football', 'Books', 'Tv Serials'];
+  name = 'Nidal';
+  city = 'Multan';
+  interests = ['Dota', 'Squash', 'Book Reading'];
 
   user = {
-    name: 'Alamgir',
-    city: 'Rawalpindi',
-    interests: ['Football', 'Books', 'Tv Serials']
+    name: 'Nidal',
+    city: 'Multan',
+    interests: ['Dota', 'Squash', 'Book Reading']
   };
 
   constructor() {}
